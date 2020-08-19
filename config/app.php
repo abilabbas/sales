@@ -12,9 +12,9 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => env('APP_NAME', 'MyShop'),
-    'version' => env('APP_VERSION', '0.0.1'),
-    'name1' => 'MyShop',
+    'name' => env('APP_NAME', 'Sakai Aquarium'),
+    'version' => env('APP_VERSION', '1.0'),
+    'name1' => 'Sakai Aquarium',
     'name2' => '',
 
     /*
